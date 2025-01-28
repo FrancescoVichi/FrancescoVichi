@@ -1,7 +1,7 @@
 
 ## 🚀 About Me
 🎓 MSc Student in **Bionics Engineering** at **Sant'Anna School of Advanced Studies**, Pisa.<br>
-💡 Passionate about **Neuromodulation, Neurorobotics, BCI**, and **AI applied to medical field**.<br>
+💡 Passionate about **Neuromodulation, Neurorobotics, BCI** and **AI applied to medical field**.<br>
 🔬 Currently conducting research on **Transcutaneous Spinal Cord Stimulation (tSCS)** and muscular activity at **EPFL, Lausanne**.<br>
 🌍 International research experience in **Italy, Switzerland, and Germany**.<br>
 
