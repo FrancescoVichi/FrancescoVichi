@@ -12,6 +12,7 @@
 ### **Programming Languages**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Jupyter-FA0A37.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/MATLAB-%23008B8B.svg?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
   <img src="https://img.shields.io/badge/LabVIEW-%23FFDD00.svg?style=for-the-badge&logo=labview&logoColor=black" alt="LabVIEW"/>
