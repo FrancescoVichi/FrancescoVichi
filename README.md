@@ -1,8 +1,10 @@
 
 ## 🚀 About Me
+🛠️ Currently **Systems Engineering Intern** at **Onward Medical**, Lausanne.<br>
 🎓 MSc in **Bionics Engineering** at **Sant'Anna School of Advanced Studies**, Pisa.<br>
+🎓 BSc in **Biomedical Engineering** at **Polytechnic University of Milan**, Milan.<br><br>
 💡 Passionate about **Neuromodulation, Neurorobotics, BCI** and **AI applied to medical field**.<br>
-🔬 Currently conducting research on **Transcutaneous Spinal Cord Stimulation (tSCS)** and muscular activity at **EPFL, Lausanne**.<br>
+🔬 Thesis research on **Transcutaneous Spinal Cord Stimulation (tSCS)** and muscular activity at **EPFL, Lausanne**.<br>
 🌍 International research experience in **Italy, Switzerland, and Germany**.<br>
 
 ---
